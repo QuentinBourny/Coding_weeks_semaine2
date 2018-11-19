@@ -1,4 +1,4 @@
-from twitter_public.twitter_analysis.lemmatization import *
+from public.twitter_analysis.lemmatization import *
 
 def test_lemmatisation():
     assert lemmatisation('I am the flights')=={'i','am','the','flight'}
