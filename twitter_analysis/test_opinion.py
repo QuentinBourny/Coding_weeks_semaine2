@@ -1,4 +1,4 @@
-from twitter_public.twitter_analysis.opinion import *
+from public.twitter_analysis.opinion import *
 
 
 def test_sentiments():
